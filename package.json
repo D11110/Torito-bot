@@ -1,0 +1,28 @@
+{
+  "name": "torito",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D11110/Torito-bot.git"
+  },
+  "keywords": [
+    "torito"
+  ],
+  "author": "D11110",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D11110/Torito-bot/issues"
+  },
+  "homepage": "https://github.com/D11110/Torito-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0"
+  }
+}
